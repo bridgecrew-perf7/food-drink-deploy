@@ -1,0 +1,58 @@
+#email,
+#password,
+#name,
+#password-confirm {
+    height: 43px;
+}
+
+.panel-heading {
+    text-align: center;
+}
+
+strong {
+    color: red;
+}
+
+#login {
+    width: 100%;
+    margin-top: 20px;
+    height: 43px;
+}
+
+#register {
+    width: 100%;
+    margin-top: 20px;
+    height: 43px;
+}
+
+#btn {
+    width: 100%;
+    margin-top: 20px;
+    height: 43px;
+}
+
+.text_footer {
+    text-align: center;
+}
+
+#row3 {
+    margin-bottom: 100px;
+}
+
+#row1 {
+    margin-bottom: 50px;
+}
+
+.profile {
+    margin-left: 20px;
+}
+
+.logout {
+    margin-left: 20px;
+}
+
+#reset_link {
+    width: 100%;
+    margin-top: 20px;
+    height: 43px;
+}
